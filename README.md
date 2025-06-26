@@ -22,8 +22,8 @@
 ---
 
 ## 🐾 Reach Me 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khanh%20Thu%20Le-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khanh-thu-le-23ba98242)
-[![Email](https://img.shields.io/badge/Email-khanhthule2001@gmail.com-informational?style=flat&logo=gmail)](mailto:khanhthule2001@gmail.com)
+<a href="https://www.linkedin.com/in/khanh-thu-le-23ba98242" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 ---
