@@ -1,4 +1,4 @@
-# 🦊 Hey, I’m Khanh!
+# 👋 Hey, I’m Khanh!
 
 > just another human who talks to computers  
 > (and occasionally pretends to understand their feelings)
@@ -21,16 +21,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Khanh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kithule&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kithule&layout=compact&theme=tokyonight)
-
----
-
 ## 🐾 Reach Me 
 
-linkedin.com/in/khanh-thu-le-23ba98242
-khanhthule2001@gmail.com
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khanh%20Thu%20Le-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khanh-thu-le-23ba98242)
+[![Email](https://img.shields.io/badge/Email-khanhthule2001@gmail.com-informational?style=flat&logo=gmail)](mailto:khanhthule2001@gmail.com)
 
+---
