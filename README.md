@@ -1,17 +1,14 @@
 # 👋 Hey, I’m Khanh!
 
-> just another human who talks to computers  
-> (and occasionally pretends to understand their feelings)
+---
+
+I'm a **telecommunications graduate** with a thing for building small and simple tools that solve daily problems.  
+Currently trying to expand my skills by learning modern tech stacks, building things that **work** (and trying not to break them immediately after).  
+I'm open to work! Looking for an **entry-level developer** role to kickstart my journey.
 
 ---
 
-🎓 I'm a **telecommunications graduate** with a thing for building small and simple tools that solve daily problems.  
-🔧 Currently trying to expand my skills by learning modern tech stacks, building things that **work** (and trying not to break them immediately after).  
-💼 I'm open to work! Looking for an **entry-level developer** role to kickstart my journey.
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -21,7 +18,7 @@
 
 ---
 
-## 🐾 Reach Me 
+## Reach Me 
 <a href="https://www.linkedin.com/in/khanh-thu-le-23ba98242" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
